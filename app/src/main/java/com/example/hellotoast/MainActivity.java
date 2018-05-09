@@ -11,9 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int mCount = 0;
     private TextView mShowCount;
-    //mamamamamasmsmasmsamasmasmmsaasmasmsamasmas
-    //asdasaads
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
